@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VipinAmbat
-- 👀 I’m interested in Coding in Python,SW testing,listning music and watching movies
-- 🌱 I’m currently learning Python Coding and machine learning
-- 💞️ I’m looking to collaborate on Projects on Machine learning
+- 👀 I’m interested in Software programming,SW testing,listning music and watching movies
+- 🌱 I’m currently learning Python,java,Andriod
+- 💞️ I’m looking to collaborate on Projects on Automation
 - 📫 How to reach me @ambat.vipu@gmail.com
 
 <!---
